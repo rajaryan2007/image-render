@@ -21,7 +21,7 @@ A simple C++ project that loads and renders images using OpenGL and `stb_image.h
 - GLAD – OpenGL function loader
 - stb_image – Image loading
 
----
+
 
 ## 📂 Project Structure
 
@@ -38,7 +38,7 @@ opengl-image-renderer/
 └── README.md
 
 
----
+
 
 ## 🛠️ Getting Started
 
